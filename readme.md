@@ -1,4 +1,4 @@
-# Java 9 toturial
+# Java 9 tutorial
 
 ## JShell
 
