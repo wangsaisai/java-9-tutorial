@@ -86,8 +86,8 @@ com.interfaces.PrivateMethod
 
 ## 模块化 Module System
 
-com.hello
-com.hello.client
+- com.hello
+- com.hello.client
 
 ## Process API
 ```java
@@ -143,8 +143,8 @@ api改进
 
 ## GC
 
-CMS垃圾回收算法不再推荐使用; 推荐性能更好的G1算法
-GC算法之间的绑定关系被取消
+- CMS垃圾回收算法不再推荐使用; 推荐性能更好的G1算法
+- GC算法之间的绑定关系被取消
 
 ## other
 java docs改进
