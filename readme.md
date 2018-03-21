@@ -22,6 +22,9 @@ jshell> void method(int x, int y) {
 jshell> method(10,20);
 30
 
+jshell> /exit
+|  再见
+
 ```
 
 ## 不可变List, Set, Map
@@ -138,8 +141,8 @@ $50 ==> Optional[2]
 
 ## HTTP 2 Client API
 
-api改进
-支持web socket 等
+- api改进
+- 支持web socket 等
 
 ## GC
 

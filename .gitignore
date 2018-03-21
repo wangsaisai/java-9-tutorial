@@ -25,6 +25,7 @@ core*.dmp
 *.ipr
 *.iws
 .idea
+out
 
 # Eclipse
 .cache
